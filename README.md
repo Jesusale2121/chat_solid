@@ -85,10 +85,6 @@ ChatBot: ¡Hasta luego!
 
 - Si tienes problemas con la instalación de ChatterBot en Python 3.10+, revisa la [documentación oficial](https://chatterbot.readthedocs.io/) o instala desde el repositorio de GitHub.
 - El archivo `db.sqlite3` es la base de datos local de ChatterBot, donde almacena el entrenamiento.
-- Si necesitas generar el archivo `requirements.txt` ejecuta:
-  ```sh
-  pip freeze > requirements.txt
-  ```
 
 ---
 
