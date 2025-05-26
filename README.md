@@ -35,7 +35,7 @@ Chatbot modular en Python que sigue los principios SOLID, utilizando [ChatterBot
 
 ```sh
 # 1. Clona el repositorio
-git clone https://github.com/tuusuario/chat_solid.git
+git clone https://github.com/Jesusale2121/chat_solid
 cd chat_solid
 
 # 2. Crea y activa un entorno virtual
